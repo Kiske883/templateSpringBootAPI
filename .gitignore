@@ -1,0 +1,44 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# Logs
+*.log
+logs/
+*.out
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build system
+/build/
+
+# Environment
+.env
+*.env
+
+# IntelliJ
+*.iws
+*.ipr
+
+# VS Code extensions or workspace settings
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
+
+# Backup
+*~
+
+# Java
+*.class
+
+# Others
+node_modules/
